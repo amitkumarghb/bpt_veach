@@ -32,4 +32,5 @@ Connecting all valid path vertices, between the two paths.
 ### Renders
 
 ![Mirror tall block](https://github.com/Thomas-Klietsch/bpt_veach/blob/master/image/mirror.png)
+
 ![Diffuse tall block](https://github.com/Thomas-Klietsch/bpt_veach/blob/master/image/lambert.png)
