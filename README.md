@@ -17,10 +17,11 @@ Connecting all valid path vertices, between the two paths.
 
 | In code | Type | Meaning
 | :- | :- | :-
-|f_ | prefix | boolean or bit flags
-|p_ | prefix | smart pointer, or reference to smart pointer
-|ptr_ | prefix | raw pointer (C style)
-|pdf_ | prefix | probability density (function)
+| f_ | prefix | boolean or bit flags
+| n_ | prefix | a fixed (natural) number
+| p_ | prefix | smart pointer, or reference to smart pointer
+| ptr_ | prefix | raw pointer (C style)
+| pdf_ | prefix | probability density (function)
 | _W | suffix | Solid angle
 | _A | suffix | Area
 
