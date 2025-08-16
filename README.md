@@ -2,7 +2,7 @@
 
 A simple C++ bi-directional path tracer based upon the thesis by Eric Veach.
 
-The goal of the code is to be as readable as possible, so not optimisation have been done.
+The goal of the code is to be as readable as possible, so no optimisation have been done.
 
 Veach's calculations (chapter 10), have been split into three (3) types, as it furthers the understanding of what the algorithm achieves.
 
